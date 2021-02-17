@@ -1,9 +1,10 @@
 # ignore everything (dirs, files, sub-dirs, sub-files)
-*
-# but do not ignore the .gitignore file
-!.gitignore
+/*
 
 # do not ignore Scripts, Resources, Scenes Directory
-!Assets/scripts/*
-!Assets/Resources/*
-!Assets/scenes/*
+!Assets/scripts/
+!Assets/Resources/
+!Assets/scenes/
+
+# but do not ignore the .gitignore file
+!.gitignore
