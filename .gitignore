@@ -4,6 +4,6 @@
 !.gitignore
 
 # do not ignore Scripts, Resources, Scenes Directory
-!/Assets/Scripts
+!/Assets/scripts
 !/Assets/Resources
-!/Assets/Scenes
+!/Assets/scenes
